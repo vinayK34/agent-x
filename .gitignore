@@ -1,0 +1,24 @@
+data/
+backend/data/
+*.db
+*.db-journal
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Assessment brief — not for redistribution
+Yuno AI Engineer Challenge.pdf
+
+# Personal troubleshooting notes — not for publication
+docs/TROUBLESHOOTING.md
